@@ -1,0 +1,520 @@
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .ProgressCard {
+        font-size: 2rem !important;
+    }
+
+    .CardContent {
+        padding: 5px !important;
+        padding-left: 10px !important;
+    }
+
+    .form {
+        border: 2px solid #ffffff !important;
+        padding: 0px 0px 0px 0px;
+        margin: 20px 10px !important;
+        border-radius: 5px;
+        box-shadow: 1px 1px 12px -2px rgba(0, 0, 0, 0.75);
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+
+    .css-1t8x7v1 {
+        width: 100%;
+        position: relative;
+        left: 30px;
+    }
+
+    .ps-sidebar-root {
+        position: relative;
+        height: 100vh;
+        margin-left: -80px;
+    }
+
+    .LoginActionBtn div {
+        display: block;
+    }
+
+    .Form-Body {
+        padding: 0px 0px 0px 0px;
+        margin: 20px;
+        border-radius: 5px;
+    }
+
+    .Form-Header {
+        padding: 21px 0px 0px 20px;
+        color: #6f6f6f;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .WhiteSmokeText {
+        color: #6f6f6f;
+    }
+
+
+
+    .custom-recaptcha {
+        margin: 20px 20px;
+    }
+
+    #tabsDiv {
+        margin-left: 6px !important;
+        margin-right: 16px !important;
+        width: 100% !important;
+    }
+
+    #card {
+        border: 1px solid #e6e6e6 !important;
+    }
+
+    .react-switch-label {
+        display: inline-flex !important;
+        /* flex-direction: column; */
+        margin-top: 4px;
+        margin-bottom: -7px;
+        align-items: center !important;
+        justify-content: space-between !important;
+        cursor: pointer !important;
+        width: 40px !important;
+        height: 20px !important;
+        background: grey !important;
+        border-radius: 100px !important;
+        position: relative !important;
+        transition: background-color .2s !important;
+    }
+
+    #card table tr {
+        display: block !important;
+        width: 60%;
+        padding-right: 60px;
+        min-width: 100%;
+        max-width: 160px;
+        word-break: break-word;
+    }
+
+    #card table td {
+        display: block !important;
+        text-align: left;
+        font-size: 13px !important;
+        color: black;
+        min-width: 125%;
+        max-width: 160px;
+        word-break: break-word;
+    }
+
+    #card tbody {
+        line-height: 0 !important;
+    }
+
+    #card table td::before {
+        content: attr(data-th);
+        font-weight: bold !important;
+    }
+
+    #card table thead tr:nth-child(1) {
+        display: none !important;
+    }
+
+    #card {
+        border: 1px solid #e6e6e6 !important;
+    }
+
+    #card table tr {
+        display: block !important;
+        width: 60%;
+        /* padding-right: 60px; */
+        padding: 5px;
+        min-width: 100%;
+        max-width: 160px;
+        word-break: break-word;
+    }
+
+    #card table td {
+        display: block !important;
+        text-align: left;
+        padding: 5px;
+        font-size: 13px !important;
+        color: black;
+        min-width: 125%;
+        max-width: 160px;
+        word-break: break-word;
+    }
+
+    .table th,
+    .table td {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        border: 0;
+    }
+
+    .table td svg:nth-child(1) {
+        margin-left: 0 !important;
+    }
+
+    #card table th,
+    #card table td {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        border: 0;
+    }
+
+    #card table td svg:nth-child(1) {
+        margin-left: 0 !important;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .form {
+        border: 2px solid #ffffff !important;
+        padding: 0px 0px 0px 0px;
+        margin: 20px 10px !important;
+        border-radius: 5px;
+        box-shadow: 1px 1px 12px -2px rgba(0, 0, 0, 0.75);
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+    .Form-Body {
+        padding: 0px 0px 0px 0px;
+        margin: 20px;
+        border-radius: 5px;
+    }
+
+    .Form-Header {
+        padding: 21px 0px 0px 20px;
+        color: #6f6f6f;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .WhiteSmokeText {
+        color: #6f6f6f;
+    }
+
+    .custom-recaptcha {
+        margin: 20px 20px;
+    }
+
+    .h1Cus {
+        font-size: 15px !important;
+        /* font-weight: bold; */
+    }
+
+    .cusMediaPad {
+        padding-left: 45px;
+    }
+
+    .marCusChk {
+        padding-top: 0 !important;
+    }
+
+    .title {
+        font-size: 15px;
+        padding-top: 10px;
+    }
+
+    .titleIcon {
+        height: 25px;
+    }
+
+    .mtCustom {
+        margin-top: 10px;
+    }
+
+    .iconCus {
+        display: none;
+    }
+
+    .btnCusPad {
+        padding-top: 19px;
+    }
+
+    .btn {
+        font-size: 10px;
+        height: 10px;
+        width: 10px;
+        padding-bottom: 16px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .content-wrapper {
+        padding: 0.75rem 0.5rem;
+    }
+
+    .alignItemsCus {
+        justify-content: center !important;
+    }
+}
+
+.ProgressCard {
+    width: 250px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 500px) {
+    .css-1wvake5.ps-collapsed {
+        width: 80px !important;
+        min-width: 80px !important;
+    }
+
+    .css-1wvake5 {
+        width: 300px !important;
+    }
+
+    .muiCusTabs>div>header>div>div>div {
+        display: flex !important;
+        flex-direction: column;
+    }
+
+    .DialogWidth>.MuiDialog-container>.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+        width: 80% !important;
+        max-width: none !important;
+    }
+
+    .AddTabs {
+        height: 50%;
+    }
+
+    .css-1omuo8w-MuiToolbar-root {
+        display: none !important;
+    }
+
+    .AC {
+        display: block !important;
+    }
+
+    .AddSTD {
+        margin-top: 10px;
+    }
+
+    .MuiTableFooter-root>tr>td:empty {
+        display: none !important;
+    }
+
+    .Register-Submit {
+        width: 100% !important;
+    }
+
+    .MuiTableRow-root {
+        display: flex !important;
+        flex-direction: column;
+        padding: 15px;
+        padding-bottom: 0px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom: 1px solid #eaeaea;
+    }
+
+    /* .MuiTableCell-root:nth-child(1) {
+        display: none !important;
+    } */
+
+    .MuiTableContainer-root {
+        border-radius: 15px;
+    }
+
+    .MuiTableCell-root {
+        display: flex !important;
+        width: -webkit-fill-available !important;
+        border: none !important;
+        padding-top: 0px !important;
+    }
+
+    .MuiTableCell-root:has(.CurrentAMT) {
+        padding-left: 0px !important;
+    }
+
+    .MobileTitle::before {
+        content: attr(data-th);
+        font-weight: bold !important;
+    }
+
+
+    .css-vv34gr-MuiTableRow-root {
+        display: none !important;
+    }
+
+}
+
+@media only screen and (min-width: 800px) {
+    .form {
+        border: 2px solid #ffffff !important;
+        padding: 0px 0px 0px 0px;
+        margin: 20px 120px;
+        border-radius: 5px;
+        box-shadow: 1px 1px 12px -2px rgba(0, 0, 0, 0.75);
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        width: 600px;
+    }
+
+    .Form-Body {
+        padding: 0px 0px 0px 0px;
+        margin: 20px;
+        border-radius: 5px;
+    }
+
+    .Form-Header {
+        padding: 21px 0px 0px 20px;
+        color: #6f6f6f;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .WhiteSmokeText {
+        color: #6f6f6f;
+    }
+
+    .custom-recaptcha {
+        margin: 20px 20px;
+    }
+
+    .Form-Container {
+        display: flex;
+        width: -moz-available;
+        align-items: center;
+        flex-direction: column;
+        width: -webkit-fill-available;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+    .form {
+        border: 2px solid #ffffff !important;
+        padding: 0px 0px 0px 0px;
+        margin: 20px 30px !important;
+        border-radius: 5px;
+        box-shadow: 1px 1px 12px -2px rgba(0, 0, 0, 0.75);
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+
+    .Form-Body {
+        padding: 0px 0px 0px 0px;
+        margin: 20px;
+        border-radius: 5px;
+    }
+
+    .Form-Header {
+        padding: 21px 0px 0px 20px;
+        color: #6f6f6f;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .WhiteSmokeText {
+        color: #6f6f6f;
+    }
+
+    .custom-recaptcha {
+        margin: 20px 20px;
+    }
+}
+
+@media (min-width: 600px) {
+    .css-7mt4h1-MuiInputBase-root .MuiInputBase-input {
+        width: 22ch;
+        height: 15px;
+    }
+
+    .css-hyum1k-MuiToolbar-root {
+        min-height: 50px !important;
+    }
+}
+
+
+.PassPad div {
+    margin-left: 3px !important;
+}
+
+.AC {
+    display: flex;
+    margin-left: 5px;
+}
+
+
+.css-1eqi2jm-MuiTableCell-root {
+    width: 30px !important;
+}
+
+.form {
+    width: 97% !important;
+    border: 2px solid #ffffff !important;
+    padding: 0px 0px 0px 0px;
+    margin: 20px 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 12px -2px rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+    background-color: white;
+}
+
+.MuiInputBase-formControl {
+    height: 45px;
+}
+
+/* .MuiFormControl-root {
+    padding-right: 10px !important; */
+/* } */
+
+.block {
+    height: 2px;
+    margin: 0px 21px 15px 0px;
+    width: -webkit-fill-available;
+    background-color: #e9e9e9;
+}
+
+.MuiInputLabel-formControl {
+    margin-top: -4px;
+}
+
+.rc-anchor-compact .rc-anchor-checkbox-label {
+    width: 50px !important;
+}
+
+
+.rc-anchor-compact-footer {
+    margin: 0 12px;
+    text-align: center;
+    width: 136px;
+    display: none;
+}
+
+.MuiButton-containedPrimary {
+    /* margin: 10px; */
+}
+
+.BGImage {
+    background-image: url('../public/assets/images/bg.jpg');
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+}
+
+li.ps-menuitem-root.css-1t8x7v1 a:hover {
+    background-color: #5a97bb !important;
+}
+
+.Sidebar-Width {
+    width: -webkit-fill-available;
+    overflow-x: scroll;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root:not(.Tabination) {
+    background-color: #3c8dbc !important;
+}
+
+.MuiToolbar-root {
+    color: black;
+}

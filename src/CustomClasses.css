@@ -1,0 +1,154 @@
+.h1Cus {
+    font-size: 1rem !important;
+    font-weight: bold;
+}
+
+.detailsViewCus {
+    /* display: block; */
+    width: 95%;
+    padding: 0;
+    padding-bottom: 12px;
+    margin-top: -13px;
+    margin-left: 1px;
+}
+
+.tableCus tbody tr {
+    padding-left: 10px;
+}
+
+.tableCus {
+    padding-bottom: 10px;
+}
+
+.cusPadForInput div {
+    padding: .5rem;
+}
+
+.marCusChk {
+    padding-top: 2rem;
+    padding-left: 58px;
+    margin-right: -33px;
+}
+
+.cusMediaPad {
+    padding-left: 30px !important;
+}
+
+.meberAdressCus {
+    width: 98%;
+    margin-top: -13px;
+    margin-left: 1px;
+    padding-bottom: 15px;
+}
+
+.memberFamilyCus {
+    width: 98% !important;
+    margin-top: -13px !important;
+    margin-left: 1px !important;
+    padding-bottom: 15px !important;
+}
+
+.cusDropdown {
+    position: absolute !important;
+    will-change: transform !important;
+    top: -186% !important;
+    left: 145% !important;
+    transform: translate3d(-47px, 61px, 0px) !important;
+    padding-left: 4px;
+    box-shadow: 9px 0px 44px -27px rgb(0 0 0 / 75%) !important;
+}
+
+.cusSubMenu {
+    padding: 0px 0px 0px 0px !important;
+}
+
+.sidebar .nav .nav-item .nav-link {
+    justify-content: space-between;
+}
+
+.pointArro {
+    position: absolute;
+    left: -4%;
+    font-size: 330%;
+    color: white;
+    top: 28%;
+    z-index: -10000;
+    color: white;
+    transform: rotate(45deg);
+    transform-origin: 20% 40%;
+
+}
+
+.CusRadio {
+    padding-left: 2.4rem;
+}
+
+.CusRadioPad {
+    margin-top: 4px;
+}
+
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item .nav-link {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.cusPadNI {
+    margin-right: 15px;
+}
+
+.CusLiHover ui li div a {
+    cursor: pointer;
+}
+
+.cusAlign {
+    justify-content: left;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.LoadingBar .bar {
+    transition-duration: 1s;
+}
+
+.MuiButtonBase-root {
+    background-color: #0095eb;
+}
+
+.CusAddBtn {
+    margin-bottom: 0px !important;
+    margin-left: 20px !important;
+}
+
+.Divider {
+    width: -webkit-fill-available;
+    display: block;
+}
+
+.MuiButtonBase-root.MuiTab-root {
+    max-width: 200px;
+}
+
+.DialogWidth>.MuiDialog-container>.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    width: 55%;
+    max-width: none !important;
+}
+/* nikhil changes 28/08/2023 starts*/
+.css-qfso29-MuiTypography-root-MuiDialogContentText-root {
+    /* display: flex; */
+    flex-wrap: wrap;
+}
+p#alert-dialog-slide-description {
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+/* nikhil changes 28/08/2023 end*/
+.css-qfso29-MuiTypography-root-MuiDialogContentText-root>div {
+    margin: 10px;
+}
+
+.Swipable>div>div {
+    padding-right: 10px;
+}
